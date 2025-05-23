@@ -7,7 +7,6 @@ About Me:
 * 🌍  I'm based in Delhi, India
 * 🖥️  See my portfolio at [Portfolio](https://bento.me/lynxnitin)
 * ✉️  You can contact me at [np897923@gmail.com](mailto:np897923@gmail.com )
-* 🚀  I'm currently working on [Simple Linear Regression Model](http://github.com/nitinpal90/Simple-Linear-Regression-Model)
 * 🧠  I'm learning NumPy, Pandas and Matplotlib
 
 
